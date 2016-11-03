@@ -1,6 +1,5 @@
 package com.scujcc;
 
-
 public class Crime {
 	  private String id;
 	  private String title;
